@@ -1,0 +1,14 @@
+# Python / Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data & Models (Do not push large, generated files)
+# Excludes the saved model (aqi_model.pkl)
+*.pkl
+*.csv
+*.zip
+
+# Operating System Files
+.DS_Store
+Thumbs.db
